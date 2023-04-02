@@ -12,3 +12,5 @@
   - 영상: [\[SpringCamp2013\] Spring Data JPA ](https://www.youtube.com/watch?v=OOO4H3BAetU)
 * [ORM을 활용할 경우의 설계, 개발 과정 - 스프링캠프, 박재성](http://www.slideshare.net/javajigi/orm-27141159)
   - 영상: [\[SpringCamp2013\] ORM 프레임워크를 활용할 때의 설계, 개발 프로세스 ](https://www.youtube.com/watch?v=VjbBGjVRxfk)
+  
+- 레포: [\[Spring-JPA-Best-Practice\] 예제](https://github.com/cheese10yun/spring-jpa-best-practices)
